@@ -1,0 +1,7 @@
+The attribution is as follows.
+
+Code for suspicious scarab init.lua derived from mesecons_wallever, written by Wuzzy and Jeija
+Off state is a texture made by Herowl, on state a texture derived from the texture by Herowl.
+Model of both off and on made by Herowl. 
+
+On and off technically only need one model but I left it as it is so that I can change the model in the future.
